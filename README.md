@@ -8,7 +8,7 @@ usage: -
 3. Type - python BruteForcer.py
 4. Follow the steps as required.
 
-NOTE - You need python 2 for this code to run, If you have an upgraded version then download python 2 here - https://gpmojo.co/nnTMy62
+NOTE - You need python 2 for this code to run, If you have an upgraded version then download python 2
 
 Installing Mechanize
 
